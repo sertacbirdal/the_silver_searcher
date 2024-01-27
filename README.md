@@ -1,7 +1,5 @@
 # The Silver Searcher
-
 A code searching tool similar to `ack`, with a focus on speed.
-
 [![Build Status](https://travis-ci.org/ggreer/the_silver_searcher.svg?branch=master)](https://travis-ci.org/ggreer/the_silver_searcher)
 
 [![Floobits Status](https://floobits.com/ggreer/ag.svg)](https://floobits.com/ggreer/ag/redirect)
